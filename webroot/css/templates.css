@@ -1,0 +1,191 @@
+.table-link{
+	font-size: 20px !important;
+	text-decoration: none !important;
+	padding: 0px !important;
+	vertical-align: middle;
+	margin: 0px !important;
+}
+.header-content{
+    height: 45px;
+    line-height: 45px;
+    font-weight: bold;
+}
+.table-link:hover{
+    color: #337ab7 !important;
+}
+.table-form th, .table-form td{
+    vertical-align: middle !important;
+}
+.table-form th{
+    background: #ececec;
+}
+.text-bold{
+    font-weight: bold;
+}
+.text-red{
+    color: #ec1313 !important;
+}
+.text-green{
+    color: #028401 !important;
+}
+.text-white{
+    color: #FFF !important;
+}
+.text-black{
+    color: #000 !important;
+}
+.text-gray{
+    color: #666;
+}
+.text-yellow{
+	color: #EAAF00;
+}
+.no-wrap{
+    white-space: nowrap;
+}
+.pre-line{
+    white-space: pre-line;
+}
+.mar-t5{
+    margin-top: 5px;
+}
+.mar-t10{
+    margin-top: 10px;
+}
+.mar-t15{
+    margin-top: 15px;
+}
+.mar-t20{
+    margin-top: 20px;
+}
+.mar-t25{
+    margin-top: 25px;
+}
+.mar-t30{
+    margin-top: 30px;
+}
+.mar-b5{
+    margin-bottom: 5px;
+}
+.mar-b10{
+    margin-bottom: 10px;
+}
+.mar-b15{
+    margin-bottom: 15px;
+}
+.mar-b20{
+    margin-bottom: 20px;
+}
+.mar-b25{
+    margin-bottom: 25px;
+}
+.mar-b30{
+    margin-bottom: 30px;
+}
+.margin-0{
+    margin: 0px;
+}
+.padding-0{
+    padding: 0px;
+}
+.pad-l0{
+    padding-left: 0px;
+}
+.pad-r0{
+    padding-right: 0px;
+}
+.pad-l4{
+    padding-left: 4px;
+}
+.pad-r4{
+    padding-right: 4px;
+}
+.pad-l5{
+    padding-left: 5px;
+}
+.pad-r5{
+    padding-right: 5px;
+}
+.pad-b20{
+    padding-bottom: 20px;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+textarea.vertical-resize{
+    resize: vertical;
+}
+.modal-dialog{
+    margin:10% auto !important;
+}
+.modal-header{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color:#fff;
+    background: #337ab7;
+}
+
+.modal-header .close-modal {
+    color: #555555 !important;
+    position: relative;
+    text-align: center;
+    float: right;
+    border: none;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.popover_signature img{
+    width: 200px;
+    height: 200px;
+}
+#ovl_modal_artwork #modal_artwork_artist .modal-content,
+#ovl_modal_antique_image #modal_antique_image_artist .modal-content{
+    max-height: 550px;
+}
+#ovl_modal_artwork #modal_artwork_artist .modal-body,
+#ovl_modal_antique_image #modal_antique_image_artist .modal-body{
+    max-height: 450px;
+    overflow-y: auto;
+}
+#ovl_modal_artwork #modal_artwork_artist .modal-body .image-name,
+#ovl_modal_antique_image #modal_antique_image_artist .modal-body .image-name{
+    word-break: break-all;
+}
+#ovl_modal_artwork #modal_artwork_artist .modal-body img,
+#ovl_modal_antique_image #modal_antique_image_artist .modal-body img{
+    max-width: 500px;
+}
+
+.image-block {
+    float:left;
+    position:relative
+}
+.image-list {
+    position:relative;
+    margin: 0px auto;
+    background: #eee;
+}
+.image-block img{
+    width: 150px;
+}
+.image-block:hover .delete-image,
+.image-list:hover .delete-image{
+    display:block
+}
+.delete-image{
+    position : absolute;
+    display:none;
+    top: 5px; 
+    right: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    z-index:100;
+    color: red !important;
+    cursor: pointer;
+}
+.delete-link, .delete-monotext{
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none !important;
+}

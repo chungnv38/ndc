@@ -1,0 +1,156 @@
+2017-02-23 22:10:30 Notice: Notice (8): Undefined variable: userSession in [/var/www/project/webco/src/Template/Layout/localpage.ctp, line 56]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Layout/localpage.ctp, line 56
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 984
+Cake\View\View::_render() - CORE/src/View/View.php, line 944
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 625
+Cake\View\View::render() - CORE/src/View/View.php, line 584
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-02-23 22:10:58 Notice: Notice (8): Undefined variable: userSession in [/var/www/project/webco/src/Template/Layout/localpage.ctp, line 56]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Layout/localpage.ctp, line 56
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 984
+Cake\View\View::_render() - CORE/src/View/View.php, line 944
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 625
+Cake\View\View::render() - CORE/src/View/View.php, line 584
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-02-23 23:24:32 Notice: Notice (8): Undefined variable: webroot in [/var/www/project/webco/src/Template/Layout/default.ctp, line 34]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Layout/default.ctp, line 34
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 984
+Cake\View\View::_render() - CORE/src/View/View.php, line 944
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 625
+Cake\View\View::render() - CORE/src/View/View.php, line 584
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE/src/Error/ExceptionRenderer.php, line 322
+Cake\Error\ExceptionRenderer::render() - CORE/src/Error/ExceptionRenderer.php, line 194
+Cake\Error\ErrorHandler::_displayException() - CORE/src/Error/ErrorHandler.php, line 144
+Cake\Error\BaseErrorHandler::handleException() - CORE/src/Error/BaseErrorHandler.php, line 173
+Cake\Error\BaseErrorHandler::wrapAndHandleException() - CORE/src/Error/BaseErrorHandler.php, line 157
+[main] - [internal], line ??
+
+
+
+2017-02-23 23:30:49 Notice: Notice (8): Undefined variable: webroot in [/var/www/project/webco/src/Template/Layout/default.ctp, line 34]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Layout/default.ctp, line 34
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 984
+Cake\View\View::_render() - CORE/src/View/View.php, line 944
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 625
+Cake\View\View::render() - CORE/src/View/View.php, line 584
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE/src/Error/ExceptionRenderer.php, line 322
+Cake\Error\ExceptionRenderer::render() - CORE/src/Error/ExceptionRenderer.php, line 194
+Cake\Error\ErrorHandler::_displayException() - CORE/src/Error/ErrorHandler.php, line 144
+Cake\Error\BaseErrorHandler::handleException() - CORE/src/Error/BaseErrorHandler.php, line 173
+Cake\Error\BaseErrorHandler::wrapAndHandleException() - CORE/src/Error/BaseErrorHandler.php, line 157
+[main] - [internal], line ??
+
+
+
+2017-02-24 00:04:23 Notice: Notice (8): Undefined variable: webroot in [/var/www/project/webco/src/Template/Layout/default.ctp, line 34]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Layout/default.ctp, line 34
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 984
+Cake\View\View::_render() - CORE/src/View/View.php, line 944
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 625
+Cake\View\View::render() - CORE/src/View/View.php, line 584
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE/src/Error/ExceptionRenderer.php, line 322
+Cake\Error\ExceptionRenderer::render() - CORE/src/Error/ExceptionRenderer.php, line 194
+Cake\Error\ErrorHandler::_displayException() - CORE/src/Error/ErrorHandler.php, line 144
+Cake\Error\BaseErrorHandler::handleException() - CORE/src/Error/BaseErrorHandler.php, line 173
+Cake\Error\BaseErrorHandler::wrapAndHandleException() - CORE/src/Error/BaseErrorHandler.php, line 157
+[main] - [internal], line ??
+
+
+
+2017-02-24 00:04:28 Notice: Notice (8): Undefined variable: webroot in [/var/www/project/webco/src/Template/Layout/default.ctp, line 34]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Layout/default.ctp, line 34
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 984
+Cake\View\View::_render() - CORE/src/View/View.php, line 944
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 625
+Cake\View\View::render() - CORE/src/View/View.php, line 584
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE/src/Error/ExceptionRenderer.php, line 322
+Cake\Error\ExceptionRenderer::render() - CORE/src/Error/ExceptionRenderer.php, line 194
+Cake\Error\ErrorHandler::_displayException() - CORE/src/Error/ErrorHandler.php, line 144
+Cake\Error\BaseErrorHandler::handleException() - CORE/src/Error/BaseErrorHandler.php, line 173
+Cake\Error\BaseErrorHandler::wrapAndHandleException() - CORE/src/Error/BaseErrorHandler.php, line 157
+[main] - [internal], line ??
+
+
+
+2017-02-24 00:04:38 Notice: Notice (8): Undefined variable: webroot in [/var/www/project/webco/src/Template/Layout/default.ctp, line 34]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Layout/default.ctp, line 34
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 984
+Cake\View\View::_render() - CORE/src/View/View.php, line 944
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 625
+Cake\View\View::render() - CORE/src/View/View.php, line 584
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE/src/Error/ExceptionRenderer.php, line 322
+Cake\Error\ExceptionRenderer::render() - CORE/src/Error/ExceptionRenderer.php, line 194
+Cake\Error\ErrorHandler::_displayException() - CORE/src/Error/ErrorHandler.php, line 144
+Cake\Error\BaseErrorHandler::handleException() - CORE/src/Error/BaseErrorHandler.php, line 173
+Cake\Error\BaseErrorHandler::wrapAndHandleException() - CORE/src/Error/BaseErrorHandler.php, line 157
+[main] - [internal], line ??
+
+
+
+2017-02-24 00:05:07 Notice: Notice (8): Undefined variable: webroot in [/var/www/project/webco/src/Template/Layout/default.ctp, line 34]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Layout/default.ctp, line 34
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 984
+Cake\View\View::_render() - CORE/src/View/View.php, line 944
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 625
+Cake\View\View::render() - CORE/src/View/View.php, line 584
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE/src/Error/ExceptionRenderer.php, line 322
+Cake\Error\ExceptionRenderer::render() - CORE/src/Error/ExceptionRenderer.php, line 194
+Cake\Error\ErrorHandler::_displayException() - CORE/src/Error/ErrorHandler.php, line 144
+Cake\Error\BaseErrorHandler::handleException() - CORE/src/Error/BaseErrorHandler.php, line 173
+Cake\Error\BaseErrorHandler::wrapAndHandleException() - CORE/src/Error/BaseErrorHandler.php, line 157
+[main] - [internal], line ??
+
+
+
+2017-02-24 09:26:53 Notice: Notice (8): Undefined variable: webroot in [/var/www/project/webco/src/Template/Layout/default.ctp, line 34]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Layout/default.ctp, line 34
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 984
+Cake\View\View::_render() - CORE/src/View/View.php, line 944
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 625
+Cake\View\View::render() - CORE/src/View/View.php, line 584
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE/src/Error/ExceptionRenderer.php, line 322
+Cake\Error\ExceptionRenderer::render() - CORE/src/Error/ExceptionRenderer.php, line 194
+Cake\Error\ErrorHandler::_displayException() - CORE/src/Error/ErrorHandler.php, line 144
+Cake\Error\BaseErrorHandler::handleException() - CORE/src/Error/BaseErrorHandler.php, line 173
+Cake\Error\BaseErrorHandler::wrapAndHandleException() - CORE/src/Error/BaseErrorHandler.php, line 157
+[main] - [internal], line ??
+
+
+

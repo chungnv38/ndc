@@ -1,0 +1,638 @@
+2017-02-23 21:20:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Auth could not be found.
+Request URL: /webco/auth/login
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:20:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:20:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/cake.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:20:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/base.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:20:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:22:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Auth could not be found.
+Request URL: /webco/auth/login
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:22:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/base.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:22:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/cake.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:22:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:49:03 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/var/www/project/webco/src/Controller/AppController.php, line 100]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2017-02-23 21:49:04 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /webco/
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/var/www/projec...', 100)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-02-23 21:49:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/cake.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:49:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:49:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/base.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:49:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:49:20 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/var/www/project/webco/src/Controller/AppController.php, line 100]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2017-02-23 21:49:20 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /webco/
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/var/www/projec...', 100)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-02-23 21:49:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/cake.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:49:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/base.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:49:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:49:38 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/var/www/project/webco/src/Controller/AppController.php, line 100]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2017-02-23 21:49:39 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /webco/
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/var/www/projec...', 100)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-02-23 21:57:19 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/var/www/project/webco/src/Controller/AppController.php, line 100]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2017-02-23 21:57:19 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /webco/
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/var/www/projec...', 100)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-02-23 21:57:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/base.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:57:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:57:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/cake.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 21:57:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:09:18 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/var/www/project/webco/src/Controller/AppController.php, line 100]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2017-02-23 22:09:18 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /webco/
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/var/www/projec...', 100)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-02-23 22:09:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:09:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/cake.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:09:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/base.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:09:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:09:41 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/var/www/project/webco/src/Controller/AppController.php, line 100]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2017-02-23 22:09:42 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /webco/
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/var/www/projec...', 100)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-02-23 22:10:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /webco/js/country.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:10:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /webco/js/currency.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:10:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /webco/js/houses.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:10:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /webco/js/artists.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:10:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /webco/js/antiques.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:10:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /webco/js/country.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:10:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /webco/js/arts.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:10:37 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /webco/js/artists.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:10:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /webco/js/currency.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:10:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /webco/js/arts.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:10:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /webco/js/antiques.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:11:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/houses.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:11:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/country.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:11:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/antiques.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:11:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/currency.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:11:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/arts.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:11:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/artists.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:11:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/currency.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:11:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/arts.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:11:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/antiques.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:19:02 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::images() could not be found, or is not accessible.
+Request URL: /webco/users/images/slider/bg1.jpg
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#2 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2017-02-23 22:19:03 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::images() could not be found, or is not accessible.
+Request URL: /webco/users/images/slider/img3.png
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#2 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2017-02-23 22:33:38 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::images() could not be found, or is not accessible.
+Request URL: /webco/users/images/slider/img3.png
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#2 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2017-02-23 22:33:39 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::images() could not be found, or is not accessible.
+Request URL: /webco/users/images/slider/bg1.jpg
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#2 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2017-02-23 22:35:40 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::images() could not be found, or is not accessible.
+Request URL: /webco/users/images/slider/bg1.jpg
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#2 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2017-02-23 22:37:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/cake.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:37:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/base.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:37:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:37:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/cake.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:37:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Request URL: /webco/css/base.css
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 22:40:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Request URL: /webco/js/npm.js
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2017-02-23 23:24:32 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::images() could not be found, or is not accessible.
+Request URL: /webco/users/images/4.jpg
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#2 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2017-02-23 23:30:49 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::images() could not be found, or is not accessible.
+Request URL: /webco/users/images/6.jpg
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#2 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2017-02-24 00:04:23 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "/home" could not be found.
+Request URL: /webco/home
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Router.php(338): Cake\Routing\RouteCollection->parse('/home')
+#1 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Filter/RoutingFilter.php(53): Cake\Routing\Router::parse('home')
+#2 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\RoutingFilter->beforeDispatch(Object(Cake\Event\Event))
+#3 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#4 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#5 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#6 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#7 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2017-02-24 00:04:28 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "/" could not be found.
+Request URL: /webco/
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Router.php(338): Cake\Routing\RouteCollection->parse('/')
+#1 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Filter/RoutingFilter.php(53): Cake\Routing\Router::parse(false)
+#2 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\RoutingFilter->beforeDispatch(Object(Cake\Event\Event))
+#3 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#4 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#5 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#6 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#7 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2017-02-24 00:04:38 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "/" could not be found.
+Request URL: /webco/
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Router.php(338): Cake\Routing\RouteCollection->parse('/')
+#1 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Filter/RoutingFilter.php(53): Cake\Routing\Router::parse(false)
+#2 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\RoutingFilter->beforeDispatch(Object(Cake\Event\Event))
+#3 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#4 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#5 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#6 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#7 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2017-02-24 00:05:07 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "/" could not be found.
+Request URL: /webco/
+Stack Trace:
+#0 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Router.php(338): Cake\Routing\RouteCollection->parse('/')
+#1 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Filter/RoutingFilter.php(53): Cake\Routing\Router::parse(false)
+#2 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\RoutingFilter->beforeDispatch(Object(Cake\Event\Event))
+#3 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#4 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#5 /var/www/project/webco/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#6 /var/www/project/webco/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#7 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2017-02-24 09:26:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index.html could not be found.
+Request URL: /webco/index.html
+Stack Trace:
+#0 /var/www/project/webco/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
