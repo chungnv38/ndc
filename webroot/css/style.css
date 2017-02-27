@@ -14,7 +14,7 @@
 
 
 body {
-	font-family:'Open Sans', Arial, sans-serif;
+	font-family:Arial;
 	font-size:14px;
 	font-weight:300;
 	line-height:1.6em;
@@ -261,6 +261,7 @@ a:hover {
   -o-animation: fadeInUp 300ms linear 600ms both;
   -ms-animation: fadeInUp 300ms linear 600ms both;
   animation: fadeInUp 300ms linear 600ms both;
+  line-height: 30px;
 }
 
 #main-slider .active .animation.animated-item-3 {
