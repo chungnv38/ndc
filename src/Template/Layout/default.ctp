@@ -67,7 +67,7 @@
                     </div> -->
                 </div>
                 
-                <div class="col-md-5 col-md-offset-4">
+                <div class="col-md-8 col-md-offset-4">
                     <div class="copyright">
                         &copy; Công ty CP Phát Triển Công Nghệ - Đầu Tư Tài Chính
                         <div class="credits">

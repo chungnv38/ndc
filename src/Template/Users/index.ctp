@@ -34,15 +34,15 @@
                 <div class="col-md-3">
                     <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" >
                         <i class="fa fa-laptop"></i>    
-                        <h2>CONSULTING AND DESIGN</h2>
-                        <p>We help you understand and use what you want</p>
+                        <h2>Tư Vấn Giải Pháp</h2>
+                        <p>Chúng tôi sẽ giúp bạn hiểu và sử dụng những thứ mà bạn muốn</p>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" >
                         <i class="fa fa-cloud"></i> 
-                        <h2>SUPPLY AND INSTALLATION</h2>
-                        <p>We bring you the facilities with high security design, appropriate for each specific condition that you bring to us</p>
+                        <h2>Cung Cấp Và Thi Công</h2>
+                        <p>Chúng tôi mang lại cho bạn sự tiện nghi với thiết kế an toàn cao, phù hợp với từng điều kiện cụ thể mà bạn mong muốn ở chúng tôi</p>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -55,7 +55,7 @@
     <div class="lates">
         <div class="container">
             <div class="text-center">
-                <h2>Lates News</h2>
+                <h2>Tin mới</h2>
             </div>
             <div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
                 <img src="<?php echo $webroot;?>images/4.jpg" class="img-responsive"/>
@@ -80,7 +80,7 @@
     <div class="about">
         <div class="container">
             <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
-                <h2>Why us</h2>
+                <h2>Tại sao chọn chúng tôi</h2>
                 <img src="<?php echo $webroot;?>images/6.jpg" class="img-responsive"/>
                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
                 libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
@@ -90,17 +90,17 @@
             </div>
             
             <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" >
-                <h2>Outstanding quality</h2>
-                <p>Include adherence to the budget, the time schedule specified and the quality. Our high-value, industry- specific services and solutions can satisfy the most difficult clients.</p>
+                <h2>Chất lượng vượt trội</h2>
+                <p>Đó là cam kết về tiến độ và chất lượng. Chất lượng dịch vụ và các giải pháp bảo an có thể đáp ứng với người khách hàng khó tính nhất</p>
 
-                <h2>Brilliant technical skills</h2>
-                <p>Our teams have knowledge and capabilities We are fully committed to accreditation, training and certiﬁcation to deliver  advanced intelligence on the latest technological solutions.</p>
+                <h2>Kỹ năng vượt trội</h2>
+                <p>Nhân viên của chúng tôi có kiến thức và khả năng. Chúng tôi cam kết về chất lượng của chương trình đào tạo và áp dụng các công nghệ tiến tiến nhất cho từng giải pháp cụ thể với từng nhân viên.</p>
 
-                <h2>Our dedicated team</h2>
-                <p>We hire only the best quality candidate to projects and we provide our employees with ample training and carry out short training to the entire team so they can do their jobs to the best of their abilities.</p>
+                <h2>Đội ngũ nhân viên</h2>
+                <p>Chúng tôi lựa chọn các nhân viên ưu tú phù hợp cho từng dự án, với nền tảng đào tạo tốt, đi kèm với đào tạo ngắn hạn để họ có thể làm công việc tốt nhất với khả năng tốt nhất của mình</p>
 
-                <h2>Project management</h2>
-                <p>Project management is our thoughtful and brilliant. Through careful planning and accurate monitoring would ensure that each project milestone on schedule.</p>
+                <h2>Quản lý dự án</h2>
+                <p>Chúng tôi giám sát dự án thông qua những kế hoạch cụ thể và theo dõi chính xác để đảm bảo rằng mỗi  cột mốc dự án đều thực hiện đúng tiến độ.</p>
             </div>
         </div>
     </div>
