@@ -89,17 +89,10 @@
             <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
                 <h2>Tại sao chọn chúng tôi</h2>
                 <img src="<?php echo $webroot;?>images/6.jpg" class="img-responsive"/>
-                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-                </p> -->
+                <h2>Chất lượng vượt trội</h2><p>Đó là cam kết về tiến độ và chất lượng. Chất lượng dịch vụ và các giải pháp bảo an có thể đáp ứng với người khách hàng khó tính nhất</p>
             </div>
             
             <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" >
-                <h2>Chất lượng vượt trội</h2>
-                <p>Đó là cam kết về tiến độ và chất lượng. Chất lượng dịch vụ và các giải pháp bảo an có thể đáp ứng với người khách hàng khó tính nhất</p>
-
                 <h2>Kỹ năng vượt trội</h2>
                 <p>Nhân viên của chúng tôi có kiến thức và khả năng. Chúng tôi cam kết về chất lượng của chương trình đào tạo và áp dụng các công nghệ tiến tiến nhất cho từng giải pháp cụ thể với từng nhân viên.</p>
 
