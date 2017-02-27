@@ -28,26 +28,33 @@
     <div class="feature">
         <div class="container">
             <div class="text-center">
-                <div class="col-md-3">
+                <!-- <div class="col-md-3">
                     
-                </div>
-                <div class="col-md-3">
+                </div> -->
+                <div class="col-md-4">
                     <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" >
-                        <i class="fa fa-laptop"></i>    
+                        <i class="fa fa-heart-o"></i>    
                         <h2>Tư Vấn Giải Pháp</h2>
                         <p>Chúng tôi sẽ giúp bạn hiểu và sử dụng những thứ mà bạn muốn</p>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-4">
+                    <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" >
+                        <i class="fa fa-laptop"></i>    
+                        <h2>Thiết Kế Hệ Thống</h2>
+                        <p>Chúng tôi sẽ giúp bạn tạo ra hệ thống với cấu trúc và tính năng vượt trội</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
                     <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" >
                         <i class="fa fa-cloud"></i> 
                         <h2>Cung Cấp Và Thi Công</h2>
                         <p>Chúng tôi mang lại cho bạn sự tiện nghi với thiết kế an toàn cao, phù hợp với từng điều kiện cụ thể mà bạn mong muốn ở chúng tôi</p>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <!-- <div class="col-md-3">
                     
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
