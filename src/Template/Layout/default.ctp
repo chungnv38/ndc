@@ -31,7 +31,7 @@
                             <span class="icon-bar"></span>
                         </button>
                         <div class="navbar-brand">
-                            <a href="index.html"><img style="width:120px;" src="<?php echo $webroot;?>images/logo.jpg"></a>
+                            <a href="index.html"><img style="width:140px;" src="<?php echo $webroot;?>images/logo.jpg"></a>
                         </div>
                     </div>
                     
